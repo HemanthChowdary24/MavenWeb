@@ -29,6 +29,7 @@
     <dependency>
       <groupId>com.example</groupId>
       <artifactId>my-web-app</artifactId>
+      <version>1.0.0</version>
     </dependency>
   </dependencies>
 
